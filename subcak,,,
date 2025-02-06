@@ -1,0 +1,6 @@
+  Config = {
+    namescript = "Subcakevn"
+    logoscript = " 75558298917118  "
+    tacgia = "thinh"
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tngaming123/vesion/refs/heads/main/scriptbffree.lua"))()  
